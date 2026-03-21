@@ -37,5 +37,8 @@ See the [6502-retro-v4](https://github.com/6502-retro/6502-retro-v4) repo for de
 Chip8 Emulator
 - [6502-retro-snake](https://github.com/6502-retro/6502-retro-snake) Classic
   snake game
+- [6502-retro-tetris](https://github.com/6502-retro/6502-retro-tetris) Classic
+  Tetris game
+
 
 <!-- vim: set ts=2 sw=2 et set tw=80 cc=80: -->
